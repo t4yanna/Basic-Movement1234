@@ -4,7 +4,6 @@
   "name": "No Name",
   "resources": [
     {"id":{"name":"Obj_pinkbunny","path":"objects/Obj_pinkbunny/Obj_pinkbunny.yy",},"order":0,},
-    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":15,},
     {"id":{"name":"Spr_Pinkbunny","path":"sprites/Spr_Pinkbunny/Spr_Pinkbunny.yy",},"order":0,},
     {"id":{"name":"obj_cobblestone","path":"objects/obj_cobblestone/obj_cobblestone.yy",},"order":1,},
     {"id":{"name":"Spr_Cobblestone","path":"sprites/Spr_Cobblestone/Spr_Cobblestone.yy",},"order":1,},
