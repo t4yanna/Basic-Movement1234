@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_cobblestone",
   "spriteId": {
-    "name": "Sprite2",
-    "path": "sprites/Sprite2/Sprite2.yy",
+    "name": "Spr_Cobblestone",
+    "path": "sprites/Spr_Cobblestone/Spr_Cobblestone.yy",
   },
   "solid": true,
   "visible": true,
